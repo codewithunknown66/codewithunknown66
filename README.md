@@ -1,206 +1,218 @@
-<!-- ========================================================= -->
-
-<!--                    PREMIUM GITHUB README                   -->
-
-<!--                  Aiyan Nisar Malik                         -->
-
-<!-- ========================================================= -->
-
-<!-- ANIMATED HEADER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=220&section=header&text=AIYAN%20NISAR%20MALIK&fontSize=55&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20DEVELOPER&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Aiyan Nisar Malik"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:111111,65:1A1A1A,100:B8860B&text=AIYAN%20NISAR%20MALIK&fontSize=48&fontColor=FFD700&fontAlignY=38&animation=twinkling&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=15&descColor=C0C0C0"/>
+
 </p>
 
-<!-- TYPING ANIMATION -->
-
 <p align="center">
-  <a href="https://github.com/aiyannisar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Generative+AI+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+AI+Projects+%F0%9F%A4%96;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=700&color=FFD700&center=true&vCenter=true&width=850&height=60&lines=%3E+Initializing+AiyanOS...;%3E+Loading+AI+modules...;%3E+Loading+Data+Science+engine...;%3E+Connecting+to+GitHub...;%3E+Building+intelligent+systems...;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9A%A1"/>
+
 </p>
 
-<!-- PROFILE VIEWS -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aiyannisar&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FFD700?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/AI%20ENGINE-ACTIVE-00BFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/DATA%20PIPELINE-RUNNING-C0C0C0?style=for-the-badge&labelColor=080808"/>
+
 </p>
 
-<!-- SOCIAL LINKS -->
-
 <p align="center">
 
-<a href="https://aiyannisar.xyz/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00FF00?style=for-the-badge&logoColor=black" alt="Portfolio"/>
-</a>
-
-<a href="mailto:aiyannisarmalik@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-00FF00?style=for-the-badge&logoColor=black" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aiyannisar/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+<a href="https://aiyannisar.xyz">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FFD700?style=for-the-badge&labelColor=080808"/>
 </a>
 
 <a href="https://github.com/aiyannisar">
-<img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-C0C0C0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://leetcode.com/u/aiyannisar/">
+<img src="https://img.shields.io/badge/LEETCODE-00BFFF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
+<p align="center">
 
-<!-- TERMINAL -->
+<img src="https://komarev.com/ghpvc/?username=aiyannisar&label=PROFILE%20VISITORS&color=FFD700&style=for-the-badge"/>
 
-## 🖥️ `> whoami`
-
-```text
-┌──(aiyan㉿github)-[~/profile]
-└─$ ./about_me.sh
-
-Name        : Aiyan Nisar Malik
-Role        : DSAI Student & Developer
-Focus       : Data Science • AI • Machine Learning
-Passion     : Building Intelligent Applications
-Environment : Python • Java • JavaScript • Linux
-Status      : Building something awesome... 🚀
-```
-
-<br>
-
-<!-- ABOUT -->
-
-## 🧠 About Me
-
-```python
-class AiyanNisar:
-
-    def __init__(self):
-        self.name = "Aiyan Nisar Malik"
-        self.role = "Data Science & AI Student"
-        self.location = "India"
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI",
-            "Data Science",
-            "Web Development"
-        ]
-
-    def current_goal(self):
-        return "Build real-world AI systems 🚀"
-
-    def fun_fact(self):
-        return "I debug faster with chai ☕"
-```
+</p>
 
 ---
 
-## ⚡ What I'm Doing
+# 🥇 ABOUT ME
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔭 Currently Working On
+<td width="60%" valign="top">
 
-🤖 AI-powered applications
-📊 Data analytics projects
-🧠 Machine learning systems
-🌐 Full-stack web applications
+## 👋 Hey, I'm Aiyan
 
-</td>
+I'm **Aiyan Nisar Malik**, a passionate **Data Science & Artificial Intelligence student and developer from India 🇮🇳**.
 
-<td width="50%">
+I enjoy building projects that combine:
 
-### 🌱 Currently Learning
-
-🧩 Data Structures & Algorithms
-🤖 Machine Learning
-🧠 Deep Learning
+🤖 Artificial Intelligence
+📊 Data Science
+🧠 Machine Learning
 ✨ Generative AI
-⚛️ React.js
-⚙️ AI Automation
+⚙️ Automation
+🌐 Web Development
+
+### 🎯 My Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+```text
+IDEA
+ ↓
+LEARN
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+DEBUG
+ ↓
+IMPROVE
+ ↓
+DEPLOY
+ ↓
+REPEAT
+```
 
 </td>
+
+<td width="40%" valign="top">
+
+### 🪪 DEVELOPER PROFILE
+
+```yaml
+name: Aiyan Nisar Malik
+
+role:
+  - DSAI Student
+  - Developer
+  - AI Enthusiast
+
+location: India 🇮🇳
+
+focus:
+  - Artificial Intelligence
+  - Data Science
+  - Machine Learning
+  - Generative AI
+
+building:
+  - AI Applications
+  - ML Systems
+  - Automation
+
+learning:
+  - Deep Learning
+  - DSA
+  - AI Agents
+
+status: ONLINE ⚡
+```
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ WHAT I DO
 
-### 👨‍💻 Programming
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+## 🤖
+
+### AI
+
+Building intelligent applications
+
+</td>
+
+<td align="center" width="25%">
+
+## 📊
+
+### DATA
+
+Finding insights from data
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### ML
+
+Building prediction systems
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚙️
+
+### AUTOMATION
+
+Creating smarter workflows
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠️ TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,react,nodejs,express,flask,docker,kubernetes,linux,git,github,mysql,mongodb,postgres,vscode,postman&perline=10"/>
 
 </p>
 
-### 🤖 AI & Data Science
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI and Data Science"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-00FF00?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-00FF00?style=for-the-badge&logo=numpy&logoColor=black" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00FF00?style=for-the-badge&logo=google-gemini&logoColor=black" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00FF00?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Machine Learning"/>
-
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express&theme=dark" alt="Web Development"/>
-
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,kubernetes&theme=dark" alt="Databases and Cloud"/>
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Developer Tools"/>
+<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-C0C0C0?style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-C0C0C0?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 🤖 AI Email Campaign Agent
 
-An AI-powered automation system that helps create and manage email campaigns using intelligent agents.
+AI-powered email campaign automation using intelligent agents.
 
 **Tech:**
-
-`Python` `Generative AI` `LangGraph` `Automation`
-
-<br>
-
-<a href="https://github.com/kaymen99/langgraph-email-automation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-</a>
+`Python` `LangGraph` `Generative AI` `Automation`
 
 </td>
 
@@ -208,17 +220,10 @@ An AI-powered automation system that helps create and manage email campaigns usi
 
 ## 🔮 PredictAI
 
-An AI-powered prediction project designed to transform data into useful predictions.
+Machine learning platform for transforming data into useful predictions.
 
 **Tech:**
-
-`Python` `Machine Learning` `Flask` `Data Science`
-
-<br>
-
-<a href="https://github.com/aiyannisar/PredictAI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-</a>
+`Python` `Machine Learning` `Flask` `Scikit-Learn`
 
 </td>
 
@@ -228,12 +233,11 @@ An AI-powered prediction project designed to transform data into useful predicti
 
 <td width="50%" valign="top">
 
-## 🏥 Hospital Treatment Pricing Prediction
+## 🏥 Hospital Treatment Prediction
 
-A machine learning application for predicting healthcare treatment-related costs using a trained ML model.
+Machine learning system for predicting healthcare treatment-related costs.
 
 **Tech:**
-
 `Python` `Pandas` `Scikit-Learn` `Flask`
 
 </td>
@@ -242,199 +246,293 @@ A machine learning application for predicting healthcare treatment-related costs
 
 ## 📊 Analytics Dashboard
 
-An interactive dashboard for analyzing CRM, leads, customer behavior and business data.
+Interactive analytics platform for CRM, leads and business data.
 
 **Tech:**
-
-`Python` `Data Analysis` `Power BI` `SQL`
+`Power BI` `SQL` `Python` `Data Analysis`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🧪 AI Projects I'm Exploring
+# 🧪 AI LAB
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=FFD700&center=true&vCenter=true&width=750&lines=%3E+Experimenting+with+AI...;%3E+Building+agents...;%3E+Automating+workflows...;%3E+Turning+ideas+into+systems..."/>
+
+</p>
 
 ```text
-                    ┌────────────────────────┐
-                    │      GENERATIVE AI     │
-                    └───────────┬────────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              ▼                 ▼                 ▼
-       ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-       │ AI Agents   │   │ AI Research │   │ Automation  │
-       └──────┬──────┘   └──────┬──────┘   └──────┬──────┘
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                ▼
-                    ┌────────────────────────┐
-                    │   REAL WORLD AI APPS  │
-                    └────────────────────────┘
+01 ─ 🤖 Autonomous Web Browsing Agent
+
+02 ─ 📚 AI Research → Report Generator
+
+03 ─ 🧑‍💻 Personal AI Productivity Assistant
+
+04 ─ 📊 CRM Intelligence Dashboard
+
+05 ─ 🧠 Sentiment Analysis System
+
+06 ─ 🔍 Image Outlier Detection
+
+07 ─ 🚀 AI Prediction Platform
 ```
 
-### 💡 Current Project Ideas
-
-* 🤖 Autonomous Web Browsing Agent
-* 📚 AI Research → Report Generator
-* 🧑‍💻 Personal AI Productivity Assistant
-* 📊 CRM Analytics Dashboard
-* 🧠 Sentiment Analysis System
-* 🔍 Image Outlier Detection
-* 🚀 AI Prediction Platforms
-
 ---
 
-# 📊 GitHub Analytics
+# 🧩 LEETCODE COMMAND CENTER
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<a href="https://leetcode.com/u/aiyannisar/">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyannisar&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=080808"/>
+
+</a>
+
+<img src="https://img.shields.io/badge/USERNAME-aiyannisar-C0C0C0?style=for-the-badge&labelColor=080808"/>
 
 </p>
 
-<br>
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aiyannisar&theme=chartreuse-dark&hide_border=true&background=000000" width="80%" alt="GitHub Streak"/>
+<img src="https://leetcard.jacoblin.cool/aiyannisar?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" width="90%" alt="Aiyan LeetCode Statistics"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/🔥%20DAILY%20PRACTICE-ACTIVE-FFD700?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🧠%20DSA-TRAINING-00BFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/🏆%20CONTESTS-LEVEL%20UP-C0C0C0?style=for-the-badge&labelColor=080808"/>
 
 </p>
 
----
+### 📊 LeetCode Focus
 
-# 🐍 Contribution Snake
+```text
+╔══════════════════════════════════════════════╗
+║              LEETCODE MODE                  ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║   🧩  Problem Solving                       ║
+║   🔥  Daily Streak                          ║
+║   🟢  Easy Problems                         ║
+║   🟡  Medium Problems                       ║
+║   🔴  Hard Problems                         ║
+║   🏆  Contest Rating                        ║
+║   📈  Ranking                               ║
+║   📅  Submission Heatmap                    ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<a href="https://leetcode.com/u/aiyannisar/">
 
-</p>
+<img src="https://img.shields.io/badge/VIEW%20FULL%20LEETCODE%20PROFILE-FFD700?style=for-the-badge&labelColor=080808"/>
 
-> ⚠️ **Snake animation requires a GitHub Actions workflow in your profile repository.**
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyannisar&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</a>
 
 </p>
 
 ---
 
-# 💻 Coding Mode
+# 📈 GITHUB ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&theme=dark&bg_color=080808&title_color=FFD700&icon_color=00BFFF&text_color=C0C0C0&border_color=B8860B&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyannisar&layout=compact&theme=dark&bg_color=080808&title_color=FFD700&text_color=C0C0C0&border_color=B8860B" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aiyannisar&theme=dark&background=080808&border=B8860B&stroke=444444&ring=FFD700&fire=00BFFF&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=FFFFFF" width="72%"/>
+
+</p>
+
+---
+
+# 🟡 CONTRIBUTION ACTIVITY
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyannisar&bg_color=080808&color=FFD700&line=00BFFF&point=FFFFFF&area_color=333333&area=true&hide_border=false&custom_title=Aiyan's%20Contribution%20Activity" width="96%"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg"/>
+
+<img
+src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"
+width="95%"
+alt="GitHub Contribution Snake"/>
+
+</picture>
+
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 💻 TERMINAL
 
 ```bash
-┌──(aiyan㉿dev)-[~/projects]
-└─$ git status
+╭────────────────────────────────────────────────────────────╮
+│  aiyan@dev:~/projects                                     │
+╰────────────────────────────────────────────────────────────╯
 
-On branch main
+$ python train.py
 
-Changes not staged for commit:
-  modified:   model.py
-  modified:   app.py
-  modified:   README.md
+[AI]   Initializing environment...
+[DATA] Loading dataset.................... ✓
+[DATA] Preprocessing...................... ✓
+[ML]   Training model..................... ✓
+[ML]   Evaluating model................... ✓
 
-┌──(aiyan㉿dev)-[~/projects]
-└─$ python train.py
-
-Loading dataset...
 ████████████████████████████████████ 100%
 
-Training model...
-████████████████████████████████████ 100%
+[SUCCESS] Model trained successfully
+[SUCCESS] AI system ready
 
-Model trained successfully ✓
+$ git commit -m "build: another AI project 🚀"
 
-┌──(aiyan㉿dev)-[~/projects]
-└─$ git commit -m "build: another AI project 🚀"
+[main] build completed successfully
 
-[main] another AI project 🚀
-
-┌──(aiyan㉿dev)-[~/projects]
-└─$ echo "Keep building."
+$ echo "Keep building."
 
 Keep building. 🚀
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 MISSION
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1900&pause=600&color=FFD700&center=true&vCenter=true&width=750&lines=BUILD+%E2%9C%93;LEARN+%E2%9C%93;DEPLOY+%E2%9C%93;CONTRIBUTE+%E2%9C%93;EXPERIMENT+%E2%9C%93;REPEAT+%F0%9F%94%A5"/>
+
+</p>
 
 <table align="center">
 
 <tr>
-<td align="center">🤖<br><b>AI Projects</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">💻<br><b>DSA</b></td>
-<td align="center">🌐<br><b>Open Source</b></td>
-<td align="center">🚀<br><b>Deployment</b></td>
+
+<td align="center">
+
+🧠
+
+### LEARN
+
+AI • ML • DSA
+
+</td>
+
+<td align="center">
+
+🔨
+
+### BUILD
+
+Real Projects
+
+</td>
+
+<td align="center">
+
+🚀
+
+### DEPLOY
+
+Real Applications
+
+</td>
+
+<td align="center">
+
+🤝
+
+### CONTRIBUTE
+
+Open Source
+
+</td>
+
 </tr>
 
 </table>
 
-```text
-[████████████████████████████████████████] 100%
-
-BUILD
-LEARN
-DEPLOY
-CONTRIBUTE
-REPEAT
-```
-
 ---
 
-# 📫 Let's Connect
+# 🔁 DEVELOPER LOOP
 
 <p align="center">
 
-<a href="https://aiyannisar.xyz/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG;%E2%86%93+IMPROVE+%E2%86%92+DEPLOY+%E2%86%92+REPEAT;%3E+THAT'S+THE+LOOP+%F0%9F%94%A5"/>
+
+</p>
+
+---
+
+# 📫 LET'S CONNECT
+
+<p align="center">
+
+<a href="https://aiyannisar.xyz">
+
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FFD700?style=for-the-badge&labelColor=080808"/>
+
 </a>
 
 <a href="https://github.com/aiyannisar">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/GITHUB-C0C0C0?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/aiyannisar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-</a>
+<a href="https://leetcode.com/u/aiyannisar/">
 
-<a href="mailto:aiyannisarmalik@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/LEETCODE-00BFFF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </a>
 
 </p>
 
----
-
-# 💚 Support
-
 <p align="center">
 
-If you find my projects useful, consider giving them a ⭐.
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat.+%F0%9F%92%9A" alt="Thank You"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=%3E+Let's+build+something+intelligent.;%3E+Let's+turn+ideas+into+code.;%3E+Let's+create+the+future.+%F0%9F%9A%80"/>
 
 </p>
 
@@ -442,16 +540,27 @@ If you find my projects useful, consider giving them a ⭐.
 
 <p align="center">
 
-### `> AI + DATA + CODE = FUTURE 🚀`
-
-<br>
-
-**© 2026 Aiyan Nisar Malik**
+<img src="https://img.shields.io/badge/AI-FFD700?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/DATA-C0C0C0?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/CODE-00BFFF?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/FUTURE-B8860B?style=for-the-badge&labelColor=080808"/>
 
 </p>
 
-<!-- ========================================================= -->
+<p align="center">
 
-<!--                         END                                -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050505,30:111111,65:1A1A1A,100:B8860B&animation=twinkling"/>
 
-<!-- ========================================================= -->
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%3E_AI+%2B+DATA+%2B+CODE+%3D+FUTURE+%F0%9F%9A%80;%3E_KEEP+BUILDING.;%3E_KEEP+LEARNING.;%3E_KEEP+SHIPPING."/>
+
+</p>
+
+<p align="center">
+
+<b>© 2026 Aiyan Nisar Malik</b>
+
+</p>
