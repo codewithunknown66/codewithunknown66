@@ -1,303 +1,271 @@
-<!-- ═════════════════════════════════════════════════════════════════════ -->
-<!--                    AIYAN NISAR MALIK • README                     -->
-<!-- ═════════════════════════════════════════════════════════════════════ -->
+# 🟢 Hi 👋, I'm Aiyan Nisar Malik
+
+### 🚀 A passionate DSAI (Data Science & Artificial Intelligence) student from India
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Aiyan%20Nisar%20Malik&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Enthusiast&descAlignY=55&descSize=25" width="100%" alt="Aiyan Nisar Malik" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aiyannisar&label=Profile%20Views&color=00FF00&style=flat" alt="Profile Views" />
+</p>
+
+📧 **Email:** [aiyannisarmalik@gmail.com](mailto:aiyannisarmalik@gmail.com)
+💡 Open to collaborations, projects, internships, and interesting AI & Data Science opportunities.
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 **Currently working on:** [AI-Powered Web Applications & Data Analytics Projects](https://aiyannisar.xyz/)
+* 🌱 **Currently learning:** Data Structures & Algorithms, Machine Learning, Deep Learning, React.js & AI Automation
+* 👯 **Looking to collaborate on:** Open Source AI, Web Development & Machine Learning Projects
+* 🤝 **Looking to learn more about:** Advanced AI Models & Real-World AI Deployment
+* 🌐 **Portfolio:** [aiyannisar.xyz](https://aiyannisar.xyz/)
+* 📝 **Articles & Projects:** [aiyannisar.xyz](https://aiyannisar.xyz/)
+* 💬 **Ask me about:** Python, JavaScript, React, Vue, GSAP, AI & Web Development
+* 📫 **Reach me:** [aiyannisarmalik@gmail.com](mailto:aiyannisarmalik@gmail.com)
+* ⚡ **Fun fact:** I debug faster with chai ☕ and I still think I'm funny 😄
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://codepen.io/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
+</a>
+
+<a href="https://dev.to/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Dev.to" width="40" height="40"/>
+</a>
+
+<a href="https://twitter.com/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://codesandbox.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codesandbox/codesandbox-original.svg" alt="CodeSandbox" width="40" height="40"/>
+</a>
+
+<a href="https://www.kaggle.com/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/aiyannisar/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/aiyannisar/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+</a>
+
+<a href="https://www.hackerearth.com/@aiyannisar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerearth/hackerearth-original.svg" alt="HackerEarth" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 🤖 AI & Data Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-00FF00?style=for-the-badge&logo=databricks&logoColor=black" alt="Data Science"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00FF00?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Machine Learning"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00FF00?style=for-the-badge&logo=openai&logoColor=black" alt="Artificial Intelligence"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-00FF00?style=for-the-badge&logo=google-gemini&logoColor=black" alt="Generative AI"/>
+
+<img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+
+<img src="https://img.shields.io/badge/SQL-00FF00?style=for-the-badge&logo=mysql&logoColor=black" alt="SQL"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI & Generative AI
+
+* **AI Email Campaign Automation Agent**
+* **Autonomous Web Browsing Agent**
+* **AI Research → Report Generator**
+* **Personal AI Productivity Assistant**
+
+### 📊 Data Science
+
+* **Analytics Dashboard for CRM & Leads**
+* **Buyer & Seller Journey Sentiment Analysis**
+* **Election Campaign Analysis**
+* **Image Outlier Detection**
+* **PredictAI – AI Prediction Platform**
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,35:111827,70:0F172A,100:00FF88&text=AIYAN%20NISAR%20MALIK&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20•%20ARTIFICIAL%20INTELLIGENCE%20•%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=%3E+Initializing+Aiyan.exe...;%3E+Data+Science+%26+Artificial+Intelligence;%3E+Generative+AI+%7C+Machine+Learning;%3E+Building+Intelligent+Applications;%3E+Agentic+AI+%7C+Automation;%3E+Learn.+Build.+Deploy.+Repeat." />
-
-<br><br>
-
-<a href="https://github.com/aiyannisar">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
-</a>
-&nbsp;
-<a href="https://aiyannisar.xyz">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88"/>
-</a>
-&nbsp;
-<a href="mailto:aiyannisarmalik@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aiyannisar">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=aiyannisar&label=SYSTEM+VISITORS&color=00ff88&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## 📊 GitHub Statistics
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF88,50:00CCFF,100:8B5CF6" width="100%"/>
-
-## `> whoami`
-
-```yaml
-name: Aiyan Nisar Malik
-role: Computer Science Student
-specialization: Data Science & Artificial Intelligence
-location: India 🇮🇳
-
-focus:
-  - Artificial Intelligence
-  - Generative AI
-  - Machine Learning
-  - Data Science
-  - Agentic AI
-  - Web Development
-  - Cloud & DevOps
-
-currently_building:
-  - AI Powered Applications
-  - Machine Learning Projects
-  - Data Analytics Systems
-  - AI Automation Agents
-
-status: "Learning • Building • Deploying 🚀"
-<br> <div align="center">
-🧠 SYSTEM PROFILE
-01 • AI	02 • DATA	03 • DEV	04 • CLOUD
-Generative AI	Data Science	Web Apps	Docker
-AI Agents	Machine Learning	APIs	Kubernetes
-LLMs	Analytics	Backend	IBM Cloud
-Automation	Visualization	Full Stack	DevOps
-</div> <br> <!-- ═══════════════════════ CURRENT STATUS ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00CCFF,100:00FF88" width="100%"/>
-> current_status
-+ Building AI-powered applications
-+ Exploring Generative AI & Agentic AI
-+ Working with Machine Learning models
-+ Learning advanced DSA
-+ Building Data Science projects
-+ Exploring Cloud & DevOps
-+ Open to Open Source collaboration
-🔭 Working on: AI-powered Web Applications & Data Analytics
-🌱 Learning: DSA • ML • Deep Learning • React • AI Automation
-🤝 Collaboration: AI • Data Science • Machine Learning • Open Source
-🧠 Exploring: Generative AI • Agentic AI • LLMs
-🌐 Portfolio: aiyannisar.xyz
-📧 Contact: aiyannisarmalik@gmail.com
-☕ Fun Fact: Debugging works better with chai.
-<br> <!-- ═══════════════════════ TECH ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF88,50:00CCFF,100:8B5CF6" width="100%"/>
-> tech_stack --list
 <div align="center">
-⚡ Programming
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark"/>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&theme=matrix&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
 
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=00FF88"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyannisar&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" width="49%"/>
 
-<br><br>
+</div>
 
-🤖 AI • ML • Data Science
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+<br/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&logo=openai&logoColor=00FF88"/> <img src="https://img.shields.io/badge/MACHINE_LEARNING-111827?style=for-the-badge&logoColor=00CCFF"/> <img src="https://img.shields.io/badge/DATA_SCIENCE-111827?style=for-the-badge&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/AGENTIC_AI-111827?style=for-the-badge&logoColor=00FF88"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PANDAS-111827?style=for-the-badge&logo=pandas&logoColor=00FF88"/> <img src="https://img.shields.io/badge/NUMPY-111827?style=for-the-badge&logo=numpy&logoColor=00CCFF"/> <img src="https://img.shields.io/badge/SCIKIT--LEARN-111827?style=for-the-badge&logo=scikitlearn&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/POWER_BI-111827?style=for-the-badge&logo=powerbi&logoColor=00FF88"/>
-
-<br><br>
-
-🌐 Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql&theme=dark"/>
-
-<br><br>
-
-☁️ Cloud • DevOps • Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IBM_CLOUD-111827?style=for-the-badge&logo=ibm&logoColor=00FF88"/> </div> <br> <!-- ═══════════════════════ PROJECTS ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00CCFF,100:00FF88" width="100%"/>
-> projects --featured
-<div align="center"> <table> <tr> <td width="50%" align="center">
-🤖 PredictAI
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=flat-square&labelColor=111827"/>
-
-<br><br>
-
-AI-powered prediction application combining
-Machine Learning + Generative AI
-
-<br><br>
-
-Python ML Gemini Flask
-
-<br><br>
-
-<a href="https://github.com/aiyannisar/PredictAI"> <img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=for-the-badge&logo=github&logoColor=00FF88"/> </a> </td> <td width="50%" align="center">
-📧 AI Email Campaign Agent
-<img src="https://img.shields.io/badge/STATUS-AI_AGENT-00CCFF?style=flat-square&labelColor=111827"/>
-
-<br><br>
-
-Intelligent automation agent for
-AI-powered Email Campaigns
-
-<br><br>
-
-Python LangGraph Generative AI
-
-<br><br>
-
-<a href="https://github.com/aiyannisar/langgraph-email-automation"> <img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=for-the-badge&logo=github&logoColor=00CCFF"/> </a> </td> </tr> <tr> <td width="50%" align="center">
-🏥 Treatment Price Prediction
-<img src="https://img.shields.io/badge/STATUS-ML_PROJECT-8B5CF6?style=flat-square&labelColor=111827"/>
-
-<br><br>
-
-Machine Learning system for predicting
-healthcare treatment costs.
-
-<br><br>
-
-Python Pandas Scikit-Learn Flask
-
-</td> <td width="50%" align="center">
-📊 Data Analytics
-<img src="https://img.shields.io/badge/STATUS-DATA-00FF88?style=flat-square&labelColor=111827"/>
-
-<br><br>
-
-Analytics and visualization projects for
-extracting insights from datasets.
-
-<br><br>
-
-Python SQL Power BI Pandas
-
-</td> </tr> </table> </div> <br> <!-- ═══════════════════════ STATS ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF88,50:00CCFF,100:8B5CF6" width="100%"/>
-> github --diagnostics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&theme=transparent&title_color=00FF88&text_color=C9D1D9&icon_color=00CCFF&border_color=30363D&bg_color=0D1117&hide_border=false&include_all_commits=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiyannisar&background=0D1117&border=30363D&stroke=00FF88&ring=00FF88&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00FF88&sideLabels=00CCFF&dates=8B949E"/>
-
-<br><br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyannisar&layout=compact&theme=transparent&title_color=00FF88&text_color=C9D1D9&border_color=30363D&bg_color=0D1117&hide_border=false&langs_count=8"/> </div> <br> <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-> achievements --unlock
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/> </div> <br> <!-- ═══════════════════════ SNAKE ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00CCFF,100:00FF88" width="100%"/>
-> ./snake --eat-contributions 🐍
 <div align="center">
-🟢 CONTRIBUTION SNAKE
-<p> Watch the snake eat my GitHub contributions. </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg"> <img alt="Aiyan Nisar Contribution Snake" src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg" width="100%"> </picture> <br>
 
-🐍 SNAKE.EXE IS EATING MY COMMITS...
+<img src="https://streak-stats.demolab.com?user=aiyannisar&theme=matrix&hide_border=true" alt="GitHub Streak" width="80%"/>
 
-</div> <br> <!-- ═══════════════════════ METRICS ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF88,50:00CCFF,100:8B5CF6" width="100%"/>
-> metrics --system
-<div align="center"> <img src="./github-metrics.svg" width="95%" alt="Aiyan GitHub Metrics"> </div> <br> <!-- ═══════════════════════ LEARNING ═══════════════════════ -->
-> learning_path --active
-<div align="center"> <table> <tr> <td align="center" width="33%">
-🤖 Generative AI
+</div>
 
-LLMs
+---
 
-Prompt Engineering
+## 🐍 Contribution Snake
 
-AI Applications
-
-</td> <td align="center" width="33%">
-🧩 Agentic AI
-
-AI Agents
-
-LangGraph
-
-Automation
-
-</td> <td align="center" width="33%">
-🧠 Machine Learning
-
-ML Models
-
-Prediction
-
-Deep Learning
-
-</td> </tr> <tr> <td align="center">
-📊 Data Science
-
-Pandas
-
-NumPy
-
-Visualization
-
-</td> <td align="center">
-☁️ Cloud
-
-IBM Cloud
-
-Docker
-
-Kubernetes
-
-</td> <td align="center">
-🌐 Development
-
-React
-
-Node.js
-
-REST APIs
-
-</td> </tr> </table> </div> <br> <!-- ═══════════════════════ ACTIVITY ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:00CCFF,100:00FF88" width="100%"/>
-> system_monitor
-AI / ML              ███████████████████░   95%
-Data Science         ██████████████████░░   90%
-Python               ██████████████████░░   90%
-Web Development      ████████████████░░░░   80%
-Cloud & DevOps       █████████████░░░░░░░   65%
-DSA                  ████████████░░░░░░░░   60%
-
-STATUS   : ONLINE 🟢
-MODE     : LEARNING
-MISSION  : BUILD INTELLIGENT SYSTEMS
-<br> <!-- ═══════════════════════ GOALS ═══════════════════════ -->
-> objectives --2026
 <div align="center">
-MISSION	STATUS
-🤖 Build Advanced AI Projects	IN PROGRESS
-🧠 Master Machine Learning	IN PROGRESS
-🧩 Build Agentic AI Systems	ACTIVE
-💻 Improve DSA	ACTIVE
-🌐 Contribute to Open Source	LOADING...
-☁️ Master Cloud & DevOps	LOADING...
-</div> <br> <!-- ═══════════════════════ CONNECT ═══════════════════════ --> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF88,50:00CCFF,100:8B5CF6" width="100%"/>
-> connect --with-me
-<div align="center"> <a href="https://github.com/aiyannisar"> <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/> </a> <a href="https://www.linkedin.com/in/aiyannisar"> <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00CCFF"/> </a> <a href="https://aiyannisar.xyz"> <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6"/> </a> <a href="mailto:aiyannisarmalik@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88"/> </a>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<a href="https://www.instagram.com/aiyannisar"> <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/> </a> <a href="https://www.kaggle.com/aiyannisar"> <img src="https://img.shields.io/badge/KAGGLE-0D1117?style=for-the-badge&logo=kaggle&logoColor=00CCFF"/> </a> <a href="https://leetcode.com/aiyannisar"> <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF88"/> </a> </div> <br> <!-- ═══════════════════════ TERMINAL ═══════════════════════ --> <div align="center">
-💻 aiyan@github:~$
-$ whoami
-Aiyan Nisar Malik
+</div>
 
-$ cat mission.txt
-Build intelligent systems.
-Learn continuously.
-Create useful technology.
+---
 
-$ echo $STATUS
-ONLINE 🟢
+## 📈 GitHub Activity
 
-$ ./future.sh
-Loading something amazing... ████████████████████ 100%
-<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub+%F0%9F%91%8B;Keep+Learning+%E2%9A%A1;Keep+Building+%F0%9F%A4%96;Keep+Shipping+%F0%9F%9A%80"/>
+<div align="center">
 
-<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyannisar&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
 
-LEARN • BUILD • BREAK • FIX • DEPLOY • REPEAT
-</div> <br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00FF88,35:0F172A,70:111827,100:030712"/>
+</div>
+
+---
+
+## 💡 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" width="80%"/>
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+
+If you like my projects, consider giving them a ⭐ on GitHub!
+
+<br/>
+
+**Let's build something amazing together! 🚀**
+
+</p>
+
+---
+
+<p align="center">
+  <b>© 2026 Aiyan Nisar Malik</b>
+</p>
